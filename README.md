@@ -1,7 +1,9 @@
-# Desafio de Projeto Git/GitHub
+# Desafio de Projeto Git/GitHub :woman_technologist:
 
-Reposiório inicial para documentar progresso
+Repositório inicial para documentar progresso.
 
 [Git - Download](https://git-scm.com/downloads)
 
 [GitHub - Login](https://github.com/login)
+
+[Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
